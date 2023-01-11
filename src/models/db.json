@@ -1,0 +1,11 @@
+{
+    "workouts":[
+{
+"id":1,
+"fecha":"10/1/2023",
+"detalle": "Hola Mundo web",
+"Importe":  1200,
+"id_categorias":1
+}
+    ]
+}
